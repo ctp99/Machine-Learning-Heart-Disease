@@ -1,0 +1,304 @@
+﻿age,cp,chol,restecg,thalach,exang,oldpeak,slope,ca,thal,target
+63,Typical Angina,233,Probable Left Ventricular Hypertrophy,150,No,2.3,Descending,0,Fixed Defect,No
+37,Pain Without Relation to Angina,250,Normal,187,No,3.5,Descending,0,Normal,No
+41,Atypical Angina,204,Probable Left Ventricular Hypertrophy,172,No,1.4,Ascending,0,Normal,No
+56,Atypical Angina,236,Normal,178,No,0.8,Ascending,0,Normal,No
+57,Asymptomatic,354,Normal,163,Yes,0.6,Ascending,0,Normal,No
+57,Asymptomatic,192,Normal,148,No,0.4,Flat,0,Fixed Defect,No
+56,Atypical Angina,294,Probable Left Ventricular Hypertrophy,153,No,1.3,Flat,0,Normal,No
+44,Atypical Angina,263,Normal,173,No,0,Ascending,0,Reversible Defect,No
+52,Pain Without Relation to Angina,199,Normal,162,No,0.5,Ascending,0,Reversible Defect,No
+57,Pain Without Relation to Angina,168,Normal,174,No,1.6,Ascending,0,Normal,No
+54,Asymptomatic,239,Normal,160,No,1.2,Ascending,0,Normal,No
+48,Pain Without Relation to Angina,275,Normal,139,No,0.2,Ascending,0,Normal,No
+49,Atypical Angina,266,Normal,171,No,0.6,Ascending,0,Normal,No
+64,Typical Angina,211,Probable Left Ventricular Hypertrophy,144,Yes,1.8,Flat,0,Normal,No
+58,Typical Angina,283,Probable Left Ventricular Hypertrophy,162,No,1,Ascending,0,Normal,No
+50,Pain Without Relation to Angina,219,Normal,158,No,1.6,Flat,0,Normal,No
+58,Pain Without Relation to Angina,340,Normal,172,No,0,Ascending,0,Normal,No
+66,Typical Angina,226,Normal,114,No,2.6,Descending,0,Normal,No
+43,Asymptomatic,247,Normal,171,No,1.5,Ascending,0,Normal,No
+69,Typical Angina,239,Normal,151,No,1.8,Ascending,2,Normal,No
+59,Asymptomatic,234,Normal,161,No,0.5,Flat,0,Reversible Defect,No
+44,Pain Without Relation to Angina,233,Normal,179,Yes,0.4,Ascending,0,Normal,No
+42,Asymptomatic,226,Normal,178,No,0,Ascending,0,Normal,No
+61,Pain Without Relation to Angina,243,Normal,137,Yes,1,Flat,0,Normal,No
+40,Typical Angina,199,Normal,178,Yes,1.4,Ascending,0,Reversible Defect,No
+71,Atypical Angina,302,Normal,162,No,0.4,Ascending,2,Normal,No
+59,Pain Without Relation to Angina,212,Normal,157,No,1.6,Ascending,0,Normal,No
+51,Pain Without Relation to Angina,175,Normal,123,No,0.6,Ascending,0,Normal,No
+65,Pain Without Relation to Angina,417,Probable Left Ventricular Hypertrophy,157,No,0.8,Ascending,1,Normal,No
+53,Pain Without Relation to Angina,197,Probable Left Ventricular Hypertrophy,152,No,1.2,Descending,0,Normal,No
+41,Atypical Angina,198,Normal,168,No,0,Ascending,1,Normal,No
+65,Asymptomatic,177,Normal,140,No,0.4,Ascending,0,Reversible Defect,No
+44,Atypical Angina,219,Probable Left Ventricular Hypertrophy,188,No,0,Ascending,0,Normal,No
+54,Pain Without Relation to Angina,273,Probable Left Ventricular Hypertrophy,152,No,0.5,Descending,1,Normal,No
+51,Typical Angina,213,Probable Left Ventricular Hypertrophy,125,Yes,1.4,Ascending,1,Normal,No
+46,Pain Without Relation to Angina,177,Probable Left Ventricular Hypertrophy,160,Yes,1.4,Descending,0,Normal,No
+54,Pain Without Relation to Angina,304,Normal,170,No,0,Ascending,0,Normal,No
+54,Pain Without Relation to Angina,232,Probable Left Ventricular Hypertrophy,165,No,1.6,Ascending,0,Reversible Defect,No
+65,Pain Without Relation to Angina,269,Normal,148,No,0.8,Ascending,0,Normal,No
+65,Pain Without Relation to Angina,360,Probable Left Ventricular Hypertrophy,151,No,0.8,Ascending,0,Normal,No
+51,Pain Without Relation to Angina,308,Probable Left Ventricular Hypertrophy,142,No,1.5,Ascending,1,Normal,No
+48,Atypical Angina,245,Probable Left Ventricular Hypertrophy,180,No,0.2,Flat,0,Normal,No
+45,Asymptomatic,208,Probable Left Ventricular Hypertrophy,148,Yes,3,Flat,0,Normal,No
+53,Asymptomatic,264,Probable Left Ventricular Hypertrophy,143,No,0.4,Flat,0,Normal,No
+39,Pain Without Relation to Angina,321,Probable Left Ventricular Hypertrophy,182,No,0,Ascending,0,Normal,No
+52,Atypical Angina,325,Normal,172,No,0.2,Ascending,0,Normal,No
+44,Pain Without Relation to Angina,235,Probable Left Ventricular Hypertrophy,180,No,0,Ascending,0,Normal,No
+47,Pain Without Relation to Angina,257,Probable Left Ventricular Hypertrophy,156,No,0,Ascending,0,Normal,No
+53,Pain Without Relation to Angina,216,Probable Left Ventricular Hypertrophy,115,No,0,Ascending,0,FALSE,No
+53,Asymptomatic,234,Probable Left Ventricular Hypertrophy,160,No,0,Ascending,0,Normal,No
+51,Pain Without Relation to Angina,256,Probable Left Ventricular Hypertrophy,149,No,0.5,Ascending,0,Normal,No
+66,Asymptomatic,302,Probable Left Ventricular Hypertrophy,151,No,0.4,Flat,0,Normal,No
+62,Pain Without Relation to Angina,231,Normal,146,No,1.8,Flat,3,Reversible Defect,No
+44,Pain Without Relation to Angina,141,Normal,175,No,0.6,Flat,0,Normal,No
+63,Pain Without Relation to Angina,252,Probable Left Ventricular Hypertrophy,172,No,0,Ascending,0,Normal,No
+52,Atypical Angina,201,Normal,158,No,0.8,Ascending,1,Normal,No
+48,Asymptomatic,222,Probable Left Ventricular Hypertrophy,186,No,0,Ascending,0,Normal,No
+45,Asymptomatic,260,Probable Left Ventricular Hypertrophy,185,No,0,Ascending,0,Normal,No
+34,Typical Angina,182,Probable Left Ventricular Hypertrophy,174,No,0,Ascending,0,Normal,No
+57,Asymptomatic,303,Probable Left Ventricular Hypertrophy,159,No,0,Ascending,1,Normal,No
+71,Pain Without Relation to Angina,265,Probable Left Ventricular Hypertrophy,130,No,0,Ascending,1,Normal,No
+54,Atypical Angina,309,Normal,156,No,0,Ascending,0,Reversible Defect,No
+52,Typical Angina,186,Probable Left Ventricular Hypertrophy,190,No,0,Flat,0,Fixed Defect,No
+41,Atypical Angina,203,Normal,132,No,0,Flat,0,Fixed Defect,No
+58,Pain Without Relation to Angina,211,Probable Left Ventricular Hypertrophy,165,No,0,Ascending,0,Normal,No
+35,Asymptomatic,183,Normal,182,No,1.4,Ascending,0,Normal,No
+51,Pain Without Relation to Angina,222,Normal,143,Yes,1.2,Flat,0,Normal,No
+45,Atypical Angina,234,Probable Left Ventricular Hypertrophy,175,No,0.6,Flat,0,Normal,No
+44,Atypical Angina,220,Normal,170,No,0,Ascending,0,Normal,No
+62,Asymptomatic,209,Normal,163,No,0,Ascending,0,Normal,No
+54,Pain Without Relation to Angina,258,Probable Left Ventricular Hypertrophy,147,No,0.4,Flat,0,Reversible Defect,No
+51,Pain Without Relation to Angina,227,Normal,154,Yes,0,Ascending,1,Reversible Defect,No
+29,Atypical Angina,204,Probable Left Ventricular Hypertrophy,202,No,0,Ascending,0,Normal,No
+51,Asymptomatic,261,Probable Left Ventricular Hypertrophy,186,Yes,0,Ascending,0,Normal,No
+43,Pain Without Relation to Angina,213,Normal,165,No,0.2,Flat,0,Normal,No
+55,Atypical Angina,250,Probable Left Ventricular Hypertrophy,161,No,1.4,Flat,0,Normal,No
+51,Pain Without Relation to Angina,245,Probable Left Ventricular Hypertrophy,166,No,2.4,Flat,0,Normal,No
+59,Atypical Angina,221,Normal,164,Yes,0,Ascending,0,Normal,No
+52,Atypical Angina,205,Normal,184,No,0,Ascending,0,Normal,No
+58,Pain Without Relation to Angina,240,Probable Left Ventricular Hypertrophy,154,Yes,0.6,Flat,0,Reversible Defect,No
+41,Pain Without Relation to Angina,250,Normal,179,No,0,Ascending,0,Normal,No
+45,Atypical Angina,308,Probable Left Ventricular Hypertrophy,170,No,0,Ascending,0,Normal,No
+60,Pain Without Relation to Angina,318,Normal,160,No,0,Ascending,1,Normal,No
+52,Typical Angina,298,Normal,178,No,1.2,Flat,0,Reversible Defect,No
+42,Asymptomatic,265,Probable Left Ventricular Hypertrophy,122,No,0.6,Flat,0,Normal,No
+67,Pain Without Relation to Angina,564,Probable Left Ventricular Hypertrophy,160,No,1.6,Flat,0,Reversible Defect,No
+68,Pain Without Relation to Angina,277,Normal,151,No,1,Ascending,1,Reversible Defect,No
+46,Atypical Angina,197,Normal,156,No,0,Ascending,0,Reversible Defect,No
+54,Pain Without Relation to Angina,214,Normal,158,No,1.6,Flat,0,Normal,No
+58,Asymptomatic,248,Probable Left Ventricular Hypertrophy,122,No,1,Flat,0,Normal,No
+48,Pain Without Relation to Angina,255,Normal,175,No,0,Ascending,2,Normal,No
+57,Asymptomatic,207,Normal,168,Yes,0,Ascending,0,Reversible Defect,No
+52,Pain Without Relation to Angina,223,Normal,169,No,0,Ascending,4,Normal,No
+54,Atypical Angina,288,Probable Left Ventricular Hypertrophy,159,Yes,0,Ascending,1,Normal,No
+45,Atypical Angina,160,Normal,138,No,0,Flat,0,Normal,No
+53,Asymptomatic,226,Probable Left Ventricular Hypertrophy,111,Yes,0,Ascending,0,Reversible Defect,No
+62,Asymptomatic,394,Probable Left Ventricular Hypertrophy,157,No,1.2,Flat,0,Normal,No
+52,Asymptomatic,233,Normal,147,No,0.1,Ascending,3,Reversible Defect,No
+43,Pain Without Relation to Angina,315,Normal,162,No,1.9,Ascending,1,Normal,No
+53,Pain Without Relation to Angina,246,Probable Left Ventricular Hypertrophy,173,No,0,Ascending,3,Normal,No
+42,Typical Angina,244,Probable Left Ventricular Hypertrophy,178,No,0.8,Ascending,2,Normal,No
+59,Typical Angina,270,Probable Left Ventricular Hypertrophy,145,No,4.2,Descending,0,Reversible Defect,No
+63,Atypical Angina,195,Normal,179,No,0,Ascending,2,Normal,No
+42,Pain Without Relation to Angina,240,Normal,194,No,0.8,Descending,0,Reversible Defect,No
+50,Pain Without Relation to Angina,196,Normal,163,No,0,Ascending,0,Normal,No
+68,Pain Without Relation to Angina,211,Probable Left Ventricular Hypertrophy,115,No,1.5,Flat,0,Normal,No
+69,Typical Angina,234,Probable Left Ventricular Hypertrophy,131,No,0.1,Flat,1,Normal,No
+45,Asymptomatic,236,Probable Left Ventricular Hypertrophy,152,Yes,0.2,Flat,0,Normal,No
+50,Atypical Angina,244,Normal,162,No,1.1,Ascending,0,Normal,No
+50,Asymptomatic,254,Probable Left Ventricular Hypertrophy,159,No,0,Ascending,0,Normal,No
+64,Asymptomatic,325,Normal,154,Yes,0,Ascending,0,Normal,No
+57,Pain Without Relation to Angina,126,Normal,173,No,0.2,Ascending,1,Reversible Defect,No
+64,Pain Without Relation to Angina,313,Normal,133,No,0.2,Ascending,0,Reversible Defect,No
+43,Asymptomatic,211,Normal,161,No,0,Ascending,0,Reversible Defect,No
+55,Atypical Angina,262,Normal,155,No,0,Ascending,0,Normal,No
+37,Pain Without Relation to Angina,215,Normal,170,No,0,Ascending,0,Normal,No
+41,Pain Without Relation to Angina,214,Probable Left Ventricular Hypertrophy,168,No,2,Flat,0,Normal,No
+56,Typical Angina,193,Probable Left Ventricular Hypertrophy,162,No,1.9,Flat,0,Reversible Defect,No
+46,Atypical Angina,204,Normal,172,No,0,Ascending,0,Normal,No
+46,Asymptomatic,243,Probable Left Ventricular Hypertrophy,152,Yes,0,Flat,0,Normal,No
+64,Asymptomatic,303,Normal,122,No,2,Flat,2,Normal,No
+59,Asymptomatic,271,Probable Left Ventricular Hypertrophy,182,No,0,Ascending,0,Normal,No
+41,Pain Without Relation to Angina,268,Probable Left Ventricular Hypertrophy,172,Yes,0,Ascending,0,Normal,No
+54,Pain Without Relation to Angina,267,Probable Left Ventricular Hypertrophy,167,No,0,Ascending,0,Normal,No
+39,Pain Without Relation to Angina,199,Normal,179,No,0,Ascending,0,Normal,No
+34,Atypical Angina,210,Normal,192,No,0.7,Ascending,0,Normal,No
+47,Asymptomatic,204,Normal,143,No,0.1,Ascending,0,Normal,No
+67,Pain Without Relation to Angina,277,Normal,172,No,0,Ascending,1,Normal,No
+52,Pain Without Relation to Angina,196,Probable Left Ventricular Hypertrophy,169,No,0.1,Flat,0,Normal,No
+74,Atypical Angina,269,Probable Left Ventricular Hypertrophy,121,Yes,0.2,Ascending,1,Normal,No
+54,Pain Without Relation to Angina,201,Normal,163,No,0,Ascending,1,Normal,No
+49,Atypical Angina,271,Normal,162,No,0,Flat,0,Normal,No
+42,Atypical Angina,295,Normal,162,No,0,Ascending,0,Normal,No
+41,Atypical Angina,235,Normal,153,No,0,Ascending,0,Normal,No
+41,Atypical Angina,306,Normal,163,No,0,Ascending,0,Normal,No
+49,Asymptomatic,269,Normal,163,No,0,Ascending,0,Normal,No
+60,Pain Without Relation to Angina,178,Normal,96,No,0,Ascending,0,Normal,No
+62,Atypical Angina,208,Probable Left Ventricular Hypertrophy,140,No,0,Ascending,0,Normal,No
+57,Asymptomatic,201,Normal,126,Yes,1.5,Flat,0,Fixed Defect,No
+64,Asymptomatic,263,Normal,105,Yes,0.2,Flat,1,Reversible Defect,No
+51,Pain Without Relation to Angina,295,Probable Left Ventricular Hypertrophy,157,No,0.6,Ascending,0,Normal,No
+43,Asymptomatic,303,Normal,181,No,1.2,Flat,0,Normal,No
+42,Pain Without Relation to Angina,209,Normal,173,No,0,Flat,0,Normal,No
+67,Asymptomatic,223,Normal,142,No,0.3,Ascending,2,Normal,No
+76,Pain Without Relation to Angina,197,Abnormalities in the T wave or ST Segment,116,No,1.1,Flat,0,Normal,No
+70,Atypical Angina,245,Probable Left Ventricular Hypertrophy,143,No,0,Ascending,0,Normal,No
+44,Pain Without Relation to Angina,242,Normal,149,No,0.3,Flat,1,Normal,No
+60,Typical Angina,240,Normal,171,No,0.9,Ascending,0,Normal,No
+44,Pain Without Relation to Angina,226,Normal,169,No,0,Ascending,0,Normal,No
+42,Pain Without Relation to Angina,180,Normal,150,No,0,Ascending,0,Normal,No
+66,Asymptomatic,228,Probable Left Ventricular Hypertrophy,138,No,2.3,Ascending,0,Fixed Defect,No
+71,Asymptomatic,149,Normal,125,No,1.6,Flat,0,Normal,No
+64,Typical Angina,227,Probable Left Ventricular Hypertrophy,155,No,0.6,Flat,0,Reversible Defect,No
+66,Pain Without Relation to Angina,278,Probable Left Ventricular Hypertrophy,152,No,0,Flat,1,Normal,No
+39,Pain Without Relation to Angina,220,Normal,152,No,0,Flat,0,Normal,No
+58,Asymptomatic,197,Normal,131,No,0.6,Flat,0,Normal,No
+47,Pain Without Relation to Angina,253,Normal,179,No,0,Ascending,0,Normal,No
+35,Atypical Angina,192,Normal,174,No,0,Ascending,0,Normal,No
+58,Atypical Angina,220,Normal,144,No,0.4,Flat,4,Reversible Defect,No
+56,Atypical Angina,221,Probable Left Ventricular Hypertrophy,163,No,0,Ascending,0,Reversible Defect,No
+56,Atypical Angina,240,Normal,169,No,0,Descending,0,Normal,No
+55,Atypical Angina,342,Normal,166,No,1.2,Ascending,0,Normal,No
+41,Atypical Angina,157,Normal,182,No,0,Ascending,0,Normal,No
+38,Pain Without Relation to Angina,175,Normal,173,No,0,Ascending,4,Normal,No
+38,Pain Without Relation to Angina,175,Normal,173,No,0,Ascending,4,Normal,No
+67,Asymptomatic,286,Probable Left Ventricular Hypertrophy,108,Yes,1.5,Flat,3,Normal,Yes
+67,Asymptomatic,229,Probable Left Ventricular Hypertrophy,129,Yes,2.6,Flat,2,Reversible Defect,Yes
+62,Asymptomatic,268,Probable Left Ventricular Hypertrophy,160,No,3.6,Descending,2,Normal,Yes
+63,Asymptomatic,254,Probable Left Ventricular Hypertrophy,147,No,1.4,Flat,1,Reversible Defect,Yes
+53,Asymptomatic,203,Probable Left Ventricular Hypertrophy,155,Yes,3.1,Descending,0,Reversible Defect,Yes
+56,Pain Without Relation to Angina,256,Probable Left Ventricular Hypertrophy,142,Yes,0.6,Flat,1,Fixed Defect,Yes
+48,Atypical Angina,229,Normal,168,No,1,Descending,0,Reversible Defect,Yes
+58,Atypical Angina,284,Probable Left Ventricular Hypertrophy,160,No,1.8,Flat,0,Normal,Yes
+58,Pain Without Relation to Angina,224,Probable Left Ventricular Hypertrophy,173,No,3.2,Ascending,2,Reversible Defect,Yes
+60,Asymptomatic,206,Probable Left Ventricular Hypertrophy,132,Yes,2.4,Flat,2,Reversible Defect,Yes
+40,Asymptomatic,167,Probable Left Ventricular Hypertrophy,114,Yes,2,Flat,0,Reversible Defect,Yes
+60,Asymptomatic,230,Normal,160,Yes,1.4,Ascending,2,Reversible Defect,Yes
+64,Pain Without Relation to Angina,335,Normal,158,No,0,Ascending,0,Normal,Yes
+43,Asymptomatic,177,Probable Left Ventricular Hypertrophy,120,Yes,2.5,Flat,0,Reversible Defect,Yes
+57,Asymptomatic,276,Probable Left Ventricular Hypertrophy,112,Yes,0.6,Flat,1,Fixed Defect,Yes
+55,Asymptomatic,353,Normal,132,Yes,1.2,Flat,1,Reversible Defect,Yes
+65,Asymptomatic,225,Probable Left Ventricular Hypertrophy,114,No,1,Flat,3,Reversible Defect,Yes
+61,Asymptomatic,330,Probable Left Ventricular Hypertrophy,169,No,0,Ascending,0,Normal,Yes
+58,Pain Without Relation to Angina,230,Probable Left Ventricular Hypertrophy,165,No,2.5,Flat,1,Reversible Defect,Yes
+50,Asymptomatic,243,Probable Left Ventricular Hypertrophy,128,No,2.6,Flat,0,Reversible Defect,Yes
+44,Asymptomatic,290,Probable Left Ventricular Hypertrophy,153,No,0,Ascending,1,Normal,Yes
+60,Asymptomatic,253,Normal,144,Yes,1.4,Ascending,1,Reversible Defect,Yes
+54,Asymptomatic,266,Probable Left Ventricular Hypertrophy,109,Yes,2.2,Flat,1,Reversible Defect,Yes
+50,Pain Without Relation to Angina,233,Normal,163,No,0.6,Flat,1,Reversible Defect,Yes
+41,Asymptomatic,172,Probable Left Ventricular Hypertrophy,158,No,0,Ascending,0,Reversible Defect,Yes
+51,Asymptomatic,305,Normal,142,Yes,1.2,Flat,0,Reversible Defect,Yes
+58,Asymptomatic,216,Probable Left Ventricular Hypertrophy,131,Yes,2.2,Flat,3,Reversible Defect,Yes
+54,Asymptomatic,188,Normal,113,No,1.4,Flat,1,Reversible Defect,Yes
+60,Asymptomatic,282,Probable Left Ventricular Hypertrophy,142,Yes,2.8,Flat,2,Reversible Defect,Yes
+60,Pain Without Relation to Angina,185,Probable Left Ventricular Hypertrophy,155,No,3,Flat,0,Normal,Yes
+59,Asymptomatic,326,Probable Left Ventricular Hypertrophy,140,Yes,3.4,Descending,0,Reversible Defect,Yes
+46,Pain Without Relation to Angina,231,Normal,147,No,3.6,Flat,0,Normal,Yes
+67,Asymptomatic,254,Normal,163,No,0.2,Flat,2,Reversible Defect,Yes
+62,Asymptomatic,267,Normal,99,Yes,1.8,Flat,2,Reversible Defect,Yes
+65,Asymptomatic,248,Probable Left Ventricular Hypertrophy,158,No,0.6,Ascending,2,Fixed Defect,Yes
+44,Asymptomatic,197,Probable Left Ventricular Hypertrophy,177,No,0,Ascending,1,Normal,Yes
+60,Asymptomatic,258,Probable Left Ventricular Hypertrophy,141,Yes,2.8,Flat,1,Reversible Defect,Yes
+58,Asymptomatic,270,Probable Left Ventricular Hypertrophy,111,Yes,0.8,Ascending,0,Reversible Defect,Yes
+68,Pain Without Relation to Angina,274,Probable Left Ventricular Hypertrophy,150,Yes,1.6,Flat,0,Reversible Defect,Yes
+62,Asymptomatic,164,Probable Left Ventricular Hypertrophy,145,No,6.2,Descending,3,Reversible Defect,Yes
+52,Asymptomatic,255,Normal,161,Yes,0,Ascending,1,Reversible Defect,Yes
+59,Asymptomatic,239,Probable Left Ventricular Hypertrophy,142,Yes,1.2,Flat,1,Reversible Defect,Yes
+60,Asymptomatic,258,Probable Left Ventricular Hypertrophy,157,No,2.6,Flat,2,Reversible Defect,Yes
+49,Pain Without Relation to Angina,188,Normal,139,No,2,Flat,3,Reversible Defect,Yes
+59,Asymptomatic,177,Normal,162,Yes,0,Ascending,1,Reversible Defect,Yes
+57,Pain Without Relation to Angina,229,Probable Left Ventricular Hypertrophy,150,No,0.4,Flat,1,Reversible Defect,Yes
+61,Asymptomatic,260,Normal,140,Yes,3.6,Flat,1,Reversible Defect,Yes
+39,Asymptomatic,219,Normal,140,No,1.2,Flat,0,Reversible Defect,Yes
+61,Asymptomatic,307,Probable Left Ventricular Hypertrophy,146,Yes,1,Flat,0,Reversible Defect,Yes
+56,Asymptomatic,249,Probable Left Ventricular Hypertrophy,144,Yes,1.2,Flat,1,Normal,Yes
+43,Asymptomatic,341,Probable Left Ventricular Hypertrophy,136,Yes,3,Flat,0,Reversible Defect,Yes
+62,Pain Without Relation to Angina,263,Normal,97,No,1.2,Flat,1,Reversible Defect,Yes
+63,Asymptomatic,330,Probable Left Ventricular Hypertrophy,132,Yes,1.8,Ascending,3,Reversible Defect,Yes
+65,Asymptomatic,254,Probable Left Ventricular Hypertrophy,127,No,2.8,Flat,1,Reversible Defect,Yes
+48,Asymptomatic,256,Probable Left Ventricular Hypertrophy,150,Yes,0,Ascending,2,Reversible Defect,Yes
+63,Asymptomatic,407,Probable Left Ventricular Hypertrophy,154,No,4,Flat,3,Reversible Defect,Yes
+55,Asymptomatic,217,Normal,111,Yes,5.6,Descending,0,Reversible Defect,Yes
+65,Typical Angina,282,Probable Left Ventricular Hypertrophy,174,No,1.4,Flat,1,Normal,Yes
+56,Asymptomatic,288,Probable Left Ventricular Hypertrophy,133,Yes,4,Descending,2,Reversible Defect,Yes
+54,Asymptomatic,239,Normal,126,Yes,2.8,Flat,1,Reversible Defect,Yes
+70,Asymptomatic,174,Normal,125,Yes,2.6,Descending,0,Reversible Defect,Yes
+62,Atypical Angina,281,Probable Left Ventricular Hypertrophy,103,No,1.4,Flat,1,Reversible Defect,Yes
+35,Asymptomatic,198,Normal,130,Yes,1.6,Flat,0,Reversible Defect,Yes
+59,Typical Angina,288,Probable Left Ventricular Hypertrophy,159,No,0.2,Flat,0,Reversible Defect,Yes
+64,Pain Without Relation to Angina,309,Normal,131,Yes,1.8,Flat,0,Reversible Defect,Yes
+47,Pain Without Relation to Angina,243,Normal,152,No,0,Ascending,0,Normal,Yes
+57,Asymptomatic,289,Probable Left Ventricular Hypertrophy,124,No,1,Flat,3,Reversible Defect,Yes
+55,Asymptomatic,289,Probable Left Ventricular Hypertrophy,145,Yes,0.8,Flat,1,Reversible Defect,Yes
+64,Asymptomatic,246,Probable Left Ventricular Hypertrophy,96,Yes,2.2,Descending,1,Normal,Yes
+70,Asymptomatic,322,Probable Left Ventricular Hypertrophy,109,No,2.4,Flat,3,Normal,Yes
+51,Asymptomatic,299,Normal,173,Yes,1.6,Ascending,0,Reversible Defect,Yes
+58,Asymptomatic,300,Probable Left Ventricular Hypertrophy,171,No,0,Ascending,2,Reversible Defect,Yes
+60,Asymptomatic,293,Probable Left Ventricular Hypertrophy,170,No,1.2,Flat,2,Reversible Defect,Yes
+77,Asymptomatic,304,Probable Left Ventricular Hypertrophy,162,Yes,0,Ascending,3,Normal,Yes
+35,Asymptomatic,282,Probable Left Ventricular Hypertrophy,156,Yes,0,Ascending,0,Reversible Defect,Yes
+70,Pain Without Relation to Angina,269,Normal,112,Yes,2.9,Flat,1,Reversible Defect,Yes
+59,Asymptomatic,249,Normal,143,Yes,0,Flat,0,Normal,Yes
+64,Asymptomatic,212,Probable Left Ventricular Hypertrophy,132,No,2,Flat,2,Fixed Defect,Yes
+57,Asymptomatic,274,Normal,88,Yes,1.2,Flat,1,Reversible Defect,Yes
+56,Asymptomatic,184,Probable Left Ventricular Hypertrophy,105,Yes,2.1,Flat,1,Fixed Defect,Yes
+48,Asymptomatic,274,Probable Left Ventricular Hypertrophy,166,No,0.5,Flat,0,Reversible Defect,Yes
+56,Asymptomatic,409,Probable Left Ventricular Hypertrophy,150,Yes,1.9,Flat,2,Reversible Defect,Yes
+66,Atypical Angina,246,Normal,120,Yes,0,Flat,3,Fixed Defect,Yes
+54,Atypical Angina,283,Probable Left Ventricular Hypertrophy,195,No,0,Ascending,1,Reversible Defect,Yes
+69,Pain Without Relation to Angina,254,Probable Left Ventricular Hypertrophy,146,No,2,Flat,3,Reversible Defect,Yes
+51,Asymptomatic,298,Normal,122,Yes,4.2,Flat,3,Reversible Defect,Yes
+43,Asymptomatic,247,Probable Left Ventricular Hypertrophy,143,Yes,0.1,Flat,4,Reversible Defect,Yes
+62,Asymptomatic,294,Normal,106,No,1.9,Flat,3,Normal,Yes
+67,Asymptomatic,299,Probable Left Ventricular Hypertrophy,125,Yes,0.9,Flat,2,Normal,Yes
+59,Typical Angina,273,Probable Left Ventricular Hypertrophy,125,No,0,Ascending,0,Normal,Yes
+45,Asymptomatic,309,Probable Left Ventricular Hypertrophy,147,Yes,0,Flat,3,Reversible Defect,Yes
+58,Asymptomatic,259,Probable Left Ventricular Hypertrophy,130,Yes,3,Flat,2,Reversible Defect,Yes
+50,Asymptomatic,200,Probable Left Ventricular Hypertrophy,126,Yes,0.9,Flat,0,Reversible Defect,Yes
+62,Asymptomatic,244,Normal,154,Yes,1.4,Flat,0,Normal,Yes
+38,Typical Angina,231,Normal,182,Yes,3.8,Flat,0,Reversible Defect,Yes
+66,Asymptomatic,228,Normal,165,Yes,1,Flat,2,Reversible Defect,Yes
+52,Asymptomatic,230,Normal,160,No,0,Ascending,1,Normal,Yes
+53,Asymptomatic,282,Normal,95,Yes,2,Flat,2,Reversible Defect,Yes
+63,Asymptomatic,269,Normal,169,Yes,1.8,Flat,2,Normal,Yes
+54,Asymptomatic,206,Probable Left Ventricular Hypertrophy,108,Yes,0,Flat,1,Normal,Yes
+66,Asymptomatic,212,Probable Left Ventricular Hypertrophy,132,Yes,0.1,Ascending,1,Normal,Yes
+55,Asymptomatic,327,Abnormalities in the T wave or ST Segment,117,Yes,3.4,Flat,0,Normal,Yes
+49,Pain Without Relation to Angina,149,Probable Left Ventricular Hypertrophy,126,No,0.8,Ascending,3,Normal,Yes
+54,Asymptomatic,286,Probable Left Ventricular Hypertrophy,116,Yes,3.2,Flat,2,Normal,Yes
+56,Asymptomatic,283,Probable Left Ventricular Hypertrophy,103,Yes,1.6,Descending,0,Reversible Defect,Yes
+46,Asymptomatic,249,Probable Left Ventricular Hypertrophy,144,No,0.8,Ascending,0,Reversible Defect,Yes
+61,Typical Angina,234,Normal,145,No,2.6,Flat,2,Normal,Yes
+67,Asymptomatic,237,Normal,71,No,1,Flat,0,Normal,Yes
+58,Asymptomatic,234,Normal,156,No,0.1,Ascending,1,Reversible Defect,Yes
+47,Asymptomatic,275,Probable Left Ventricular Hypertrophy,118,Yes,1,Flat,1,Normal,Yes
+52,Asymptomatic,212,Normal,168,No,1,Ascending,2,Reversible Defect,Yes
+58,Asymptomatic,218,Normal,105,No,2,Flat,1,Reversible Defect,Yes
+57,Atypical Angina,261,Normal,141,No,0.3,Ascending,0,Reversible Defect,Yes
+58,Atypical Angina,319,Probable Left Ventricular Hypertrophy,152,No,0,Ascending,2,Normal,Yes
+61,Asymptomatic,166,Probable Left Ventricular Hypertrophy,125,Yes,3.6,Flat,1,Normal,Yes
+42,Asymptomatic,315,Normal,125,Yes,1.8,Flat,0,Fixed Defect,Yes
+52,Asymptomatic,204,Normal,156,Yes,1,Flat,0,FALSE,Yes
+59,Pain Without Relation to Angina,218,Normal,134,No,2.2,Flat,1,Fixed Defect,Yes
+40,Asymptomatic,223,Normal,181,No,0,Ascending,0,Reversible Defect,Yes
+61,Asymptomatic,207,Probable Left Ventricular Hypertrophy,138,Yes,1.9,Ascending,1,Reversible Defect,Yes
+46,Asymptomatic,311,Normal,120,Yes,1.8,Flat,2,Reversible Defect,Yes
+59,Typical Angina,204,Normal,162,No,0.8,Ascending,2,Normal,Yes
+57,Atypical Angina,232,Probable Left Ventricular Hypertrophy,164,No,0,Ascending,1,Normal,Yes
+57,Asymptomatic,335,Normal,143,Yes,3,Flat,1,Reversible Defect,Yes
+55,Asymptomatic,205,Abnormalities in the T wave or ST Segment,130,Yes,2,Flat,1,Reversible Defect,Yes
+61,Asymptomatic,203,Normal,161,No,0,Ascending,1,Reversible Defect,Yes
+58,Asymptomatic,318,Abnormalities in the T wave or ST Segment,140,No,4.4,Descending,3,Fixed Defect,Yes
+58,Asymptomatic,225,Probable Left Ventricular Hypertrophy,146,Yes,2.8,Flat,2,Fixed Defect,Yes
+67,Pain Without Relation to Angina,212,Probable Left Ventricular Hypertrophy,150,No,0.8,Flat,0,Reversible Defect,Yes
+44,Asymptomatic,169,Normal,144,Yes,2.8,Descending,0,Fixed Defect,Yes
+63,Asymptomatic,187,Probable Left Ventricular Hypertrophy,144,Yes,4,Ascending,2,Reversible Defect,Yes
+63,Asymptomatic,197,Normal,136,Yes,0,Flat,0,Normal,Yes
+59,Asymptomatic,176,Probable Left Ventricular Hypertrophy,90,No,1,Flat,2,Fixed Defect,Yes
+57,Asymptomatic,241,Normal,123,Yes,0.2,Flat,0,Reversible Defect,Yes
+45,Typical Angina,264,Normal,132,No,1.2,Flat,0,Reversible Defect,Yes
+68,Asymptomatic,193,Normal,141,No,3.4,Flat,2,Reversible Defect,Yes
+57,Asymptomatic,131,Normal,115,Yes,1.2,Flat,1,Reversible Defect,Yes
+57,Atypical Angina,236,Probable Left Ventricular Hypertrophy,174,No,0,Flat,1,Normal,Yes
